@@ -21,7 +21,7 @@ header h3 {
 	text-indent: 30px;
 }
 
-.shadow {
+h3 .shadow {
 	text-shadow: #800000;
 }
 
@@ -40,7 +40,7 @@ main h3 {
 	font-size: 105%;
 }
 
-main h3:hover {
+h3 a:hover {
 	font-style: italic;
 }
 
