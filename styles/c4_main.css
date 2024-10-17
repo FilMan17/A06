@@ -36,7 +36,7 @@ main h3 {
 	font-size: 105%;
 }
 
-main a:hover {
+a:hover {
 	font-style: italic;
 	color: #800000;
 }
