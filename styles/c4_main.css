@@ -36,8 +36,9 @@ main h3 {
 	font-size: 105%;
 }
 
-h3 a:hover {
+main h3:hover {
 	font-style: italic;
+	color: red;
 }
 
 /* the styles for the footer */
